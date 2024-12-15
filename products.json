@@ -9,12 +9,12 @@
     "name": "Produit 2",
     "description": "Description du produit 2",
     "price": 29.99,
-    "imagePath": "assets/images/produit2.jpg"
+    "imagePath": "C:/Users/Adria/Desktop/terre2chanvre/assets/images/produit2.jpg"
   },
   {
     "name": "Produit 3",
     "description": "Description du produit 3",
     "price": 39.99,
-    "imagePath": "assets/images/produit3.jpg"
+    "imagePath": "C:/Users/Adria/Desktop/terre2chanvre/assets/images/produit3.jpg"
   }
 ]
